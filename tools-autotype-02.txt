@@ -1,0 +1,5 @@
+pip autopwn-suite
+pip arjun
+pip httpx
+apt nuclei
+apt hakrawler

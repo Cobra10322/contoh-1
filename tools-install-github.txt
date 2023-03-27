@@ -1,0 +1,7 @@
+tools install github ::
+
+httpx
+morpheus
+paramspider
+pwnxss
+xss-loader
